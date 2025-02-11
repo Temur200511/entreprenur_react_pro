@@ -1,0 +1,80 @@
+.companies{
+background-color: #FFFFFF;
+padding-top: 80px;
+margin-top: 30px;
+h1{
+    width: 768px;
+    font-size: 42px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.px_20{
+    width: 768px;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    color: #666666;
+    padding-top: 20px;
+}
+
+.logos{
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+align-items: center;
+padding: 70px 0 70px 0;
+img{
+    &:hover{
+        transform: scale(1.03); // Slightly increases the size on hover
+        transition: transform 0.3s ease-in-out; 
+        cursor: pointer;
+    }
+}
+}
+
+.ceo{
+    border: 2px solid #EAEAEA;
+    padding: 0 50px 0 50px;
+    // display: inline;
+img{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+}
+
+    .px_20{
+        padding: 19px 0 16px 0;
+        color: #191919;
+font-weight: 500;
+width: 660px;
+    }
+
+    .co{
+        padding: 7px 0 16px 0;
+        font-size: 16px;
+        margin: auto;
+        text-align: center;
+
+        a{
+
+            text-decoration: none;
+        }
+    }
+
+}
+
+
+.text_d{
+    position: relative;
+    .text{
+        position: absolute;
+        bottom: 170px;
+left: 40px;
+    }
+}
+
+
+}
