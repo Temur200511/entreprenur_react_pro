@@ -30,9 +30,11 @@ set it up once, and get beautiful results forever.
 </button>
 </div>
 
-
+<div className='ill'>
 <img id='illustrate' src="/assets/images/Illustration.png" alt="" />
 <img id='videobtn' src="/assets/images/Button.png" alt="" />
+</div>
+
 <img id='big' src="/assets/images/Oval.png" alt="" />
 <img id='small_oval'  src="/assets/images/Oval(1).png" alt="" />
 

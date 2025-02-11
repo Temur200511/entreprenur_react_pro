@@ -52,10 +52,15 @@ transition: all .3s ease;
     padding-top: 80px;
 }
 
+.ill{
+    position: relative;
+
+}
+
 #videobtn{
     position: absolute;
-        bottom: -65px;
-        right: 820px;
+        bottom: 15px;
+        left: 390px;
         &:hover{
            cursor: pointer;
         }
